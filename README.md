@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jethasriM
-- 👀 I’m interested in web and app development
-- 🌱 I’m currently learning full-stack web development
+- 👀 I’m interested in Machine Learning and User Interface designing
+- 🌱 I’m currently learning Python and Machine Learning
 - 💞️ I’m looking to collaborate on various projects
 - 📫 How to reach me linkedIn: www.linkedin.com/in/muvvala-jethasri-325409282
 

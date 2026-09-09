@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @jethasriM
-- 👀 I’m interested in Machine Learning and User Interface designing
-- 🌱 I’m currently learning Python and Machine Learning
-- 💞️ I’m looking to collaborate on various projects
-- 📫 How to reach me linkedIn: www.linkedin.com/in/muvvala-jethasri-325409282
+Featured Projects
+
+🤖 AI Productivity Assistant
+📄 AI Legal Document Intelligence
+🌍 CNN-LSTM Seismic Forecasting
+🧘 Real-Time Yoga Pose Analysis
+🧾 OCR Receipt & Bill Splitter
 
 <!---
 jethasriM/jethasriM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

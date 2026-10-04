@@ -1,6 +1,6 @@
 Featured Projects
 
-🤖 AI Productivity Assistant
+🤖 Smart Rate Limiter
 📄 AI Legal Document Intelligence
 🌍 CNN-LSTM Seismic Forecasting
 🧘 Real-Time Yoga Pose Analysis
